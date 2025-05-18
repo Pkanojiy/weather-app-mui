@@ -86,7 +86,7 @@ const App = () => {
         alignItems: "center",
         height: "100vh",
         width: "100vw",
-        backgroundColor: "#e1e1e1",
+        backgroundColor: "#eeeeee",
       }}
     >
       <Container maxWidth="sm">
